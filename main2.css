@@ -1,0 +1,11 @@
+main {
+	background-color: yellow;
+	margin: 1rem;
+	padding: 2rem;
+	border-radius: 100px
+}
+
+main h1 {
+	text-decoration: underline;
+	color: white;
+}
